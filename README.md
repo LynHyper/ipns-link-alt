@@ -2,14 +2,14 @@
 
 ## Intro
 
-Check out the official specs repo at https://github.com/ipns-link/specs.
+Official IPNS-Link specs repo: https://github.com/ipns-link/specs
 
-IPNS-Link is a decentralised Ngrok alternative developed by the IPNS-Link team (of which I am a part of), this repo exists so I can experiment with ideas for IPNS-Link without creating unnecessary issues or discussions in the official specs repo, ideas in this repo may be adopted by IPNS-Link officially if the idea is deemed suitable and worthwhile to accept.
+This is an experimental repo for exploring new ideas and concepts for IPNS-Link, this repo is mainly for personal use, however, feel free to contribute ideas and give feedback.
+
+To see the experimental ideas, head to the [Wiki](https://github.com/Winterhuman/ipns-link-alt/wiki).
 
 ## Goals
 
-- Decentralisation to the highest degree reasonably possible.
-- High CPU and bandwidth efficiency, both for Exposer and Gateways, without compromising security or UX friendliness.
-- Simplification and refinement; attempt to replicate IPNS-Link's current features with less complexity.
-
-For documentation of ideas, head to the [Wiki](https://github.com/LynHyper/ipns-link-alt/wiki).
+- Achieve decentralization to the highest degree possible for IPNS-Link.
+- Reduce CPU and bandwidth usage, both for Exposers and Gateways, without compromising on security or maximum performance.
+- Simplify and refine existing IPNS-Link concepts to achieve maximum efficiency for the least complexity.
