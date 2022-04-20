@@ -1,5 +1,7 @@
 # IPNS-Link Spec Alternative
 
+[![](https://img.shields.io/matrix/ipns-link:matrix.org)](https://matrix.to/#/ipns-link:matrix.org)
+
 ## Intro
 
 Official IPNS-Link specs repo: https://github.com/ipns-link/specs
